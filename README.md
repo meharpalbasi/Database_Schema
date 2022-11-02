@@ -1,3 +1,6 @@
 # Database_Schema
-Checkout a database schema I made for sales data. 
-Find attached the raw data used, the code for creating tables & the database schema design. 
+Checkout a database schema I made for data regarding sales. 
+Find attached: 
+The raw data used.
+The code used for creating tables.
+The schema design. 
